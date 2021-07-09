@@ -18,7 +18,7 @@
     "WebApplication4": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://192.168.0.105:5001;http://192.168.0.105:5000",
+      "applicationUrl": "https://192.168.1.169:5005;http://192.168.1.169:5004",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
